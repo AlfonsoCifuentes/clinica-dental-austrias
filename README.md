@@ -1,9 +1,9 @@
 # clinica-dental-austrias
 
-Demo web para cliente.
+Demo web de Clinica Dental Austrias.
 
-**Sector:** Ver descripción.
+**Sector:** Clinica dental.
 **Live URL:** https://clinica-dental-austrias.vercel.app
 
-> Repositorio creado automáticamente. Código fuente a poblar por repo-man.
+Repositorio con fuente Next.js para la landing publicada en Vercel.
 
